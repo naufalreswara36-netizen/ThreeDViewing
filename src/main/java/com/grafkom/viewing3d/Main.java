@@ -1,0 +1,8 @@
+package com.grafkom.viewing3d;
+
+/** Titik masuk program: 3D Visual Realism Suite (Grafika Komputer - Minggu 11). */
+public class Main {
+    public static void main(String[] args) {
+        new VisualRealismApp().run();
+    }
+}
